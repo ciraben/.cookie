@@ -3,6 +3,7 @@
     "email": "<->",
     "project_name": "default",
     "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+    "project_description": "",
     "version": "0.0.1",
     "python_version": ["3.9.6", "3.8", "2.7"]
 }
