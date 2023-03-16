@@ -1,4 +1,4 @@
-# tommo's first cookie-cut cookie
+# tommo's first cookie-cut cookie-cutter
 
 To use:
 
